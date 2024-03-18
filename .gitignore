@@ -1,0 +1,9 @@
+/wandb
+/Models
+/gptl_finetuned
+/data
+/__pycache__
+/.ipynb_checkpoints
+/t5_finetuned
+/working
+/MeZO
